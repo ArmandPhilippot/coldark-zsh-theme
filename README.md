@@ -23,7 +23,6 @@ Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 
 |                | Light Theme |                                                          | Dark Theme |                                                          |
 | -------------- | ----------- | :------------------------------------------------------: | :--------: | :------------------------------------------------------: |
 | **Usage code** | **Hex**     |                       **Preview**                        |  **Hex**   |                       **Preview**                        |
-| `coldark00`    | `#E3E9F2`   | ![#E3E9F2](https://placehold.it/20/E3E9F2/000000?text=+) | `#111B27`  | ![#111B27](https://placehold.it/20/111B27/000000?text=+) |
 | `coldark02`    | `#ccd6e4`   | ![#ccd6e4](https://placehold.it/20/ccd6e4/000000?text=+) | `#304259`  | ![#304259](https://placehold.it/20/304259/000000?text=+) |
 | `coldark03`    | `#304259`   | ![#304259](https://placehold.it/20/304259/000000?text=+) | `#ccd6e4`  | ![#ccd6e4](https://placehold.it/20/ccd6e4/000000?text=+) |
 | `coldark06`    | `#213043`   | ![#213043](https://placehold.it/20/213043/000000?text=+) | `#f0f3f8`  | ![#f0f3f8](https://placehold.it/20/f0f3f8/000000?text=+) |
