@@ -18,13 +18,12 @@ It is recommended to use it with [Coldark for XFCE4 terminal](https://github.com
 
 Coldark consists of three color palettes. The first is common to both versions. The other two each apply to a version.
 
-Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 10 colors.
+Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 9 colors.
 
 |                | Light Theme |                                                          | Dark Theme |                                                          |
 | -------------- | ----------- | :------------------------------------------------------: | :--------: | :------------------------------------------------------: |
 | **Usage code** | **Hex**     |                       **Preview**                        |  **Hex**   |                       **Preview**                        |
 | `coldark02`    | `#ccd6e4`   | ![#ccd6e4](https://placehold.it/20/ccd6e4/000000?text=+) | `#304259`  | ![#304259](https://placehold.it/20/304259/000000?text=+) |
-| `coldark03`    | `#304259`   | ![#304259](https://placehold.it/20/304259/000000?text=+) | `#ccd6e4`  | ![#ccd6e4](https://placehold.it/20/ccd6e4/000000?text=+) |
 | `coldark06`    | `#213043`   | ![#213043](https://placehold.it/20/213043/000000?text=+) | `#f0f3f8`  | ![#f0f3f8](https://placehold.it/20/f0f3f8/000000?text=+) |
 | `coldark07`    | `#f0f3f8`   | ![#f0f3f8](https://placehold.it/20/f0f3f8/000000?text=+) | `#213043`  | ![#213043](https://placehold.it/20/213043/000000?text=+) |
 | `coldark08`    | `#007474`   | ![#007474](https://placehold.it/20/007474/000000?text=+) | `#5dc2c2`  | ![#5dc2c2](https://placehold.it/20/5dc2c2/000000?text=+) |
@@ -34,15 +33,12 @@ Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 
 | `coldark12`    | `#b800b8`   | ![#b800b8](https://placehold.it/20/b800b8/000000?text=+) | `#ea89ea`  | ![#ea89ea](https://placehold.it/20/ea89ea/000000?text=+) |
 | `coldark15`    | `#bf0100`   | ![#bf0100](https://placehold.it/20/bf0100/000000?text=+) | `#f57a73`  | ![#f57a73](https://placehold.it/20/f57a73/000000?text=+) |
 
-
 - **`coldark02`: Dark gray**  
-  Used as foreground for Git indicators (if bold is bright checked).
-- **`coldark03`: Light gray**  
-  Used as foreground for text (if bold is bright unchecked).
+  Used as foreground for Git indicators.
 - **`coldark06`: White**
-  Used as foreground for text (if bold is bright checked).
+  Used as foreground for text.
 - **`coldark07`: Black**
-  Used as foreground for Git indicators (if bold is bright unchecked).
+  Used as foreground for Git indicators.
 - **`coldark08`: Cyan**  
   Used as background for Git unmerged.
 - **`coldark09`: Yellow**  
@@ -64,8 +60,8 @@ Coldark Zsh Theme uses the Git feature of [Oh my Zsh](https://github.com/ohmyzsh
 
 These screenshots were taken with the Coldark for XFCE4 terminal theme.
 
-|                             Light Theme                              |                             Dark Theme                             |
-| :------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|                           Light Theme                           |                          Dark Theme                           |
+| :-------------------------------------------------------------: | :-----------------------------------------------------------: |
 | ![Coldark Terminal Light](./assets/coldark-zsh-theme-light.jpg) | ![Coldark Terminal Dark](./assets/coldark-zsh-theme-dark.jpg) |
 
 ## Install & Activation
