@@ -13,7 +13,7 @@
 
 # Username - Bold, blue foreground
 username() {
-    echo "%B%F{004} %n %F{007}→ %b%k%f"
+    echo "%B%F{004} %n %F{015}→ %b%k%f"
 }
 
 # Current directory - Bold, green foreground
@@ -37,7 +37,7 @@ current_time() {
 # ------------------------------------------------------------------------------
 
 # Git info
-ZSH_THEME_GIT_PROMPT_PREFIX="%B%F{007} on %F{003}"
+ZSH_THEME_GIT_PROMPT_PREFIX="%B%F{015} on %F{003}"
 ZSH_THEME_GIT_PROMPT_SUFFIX=" %b%f"
 ZSH_THEME_GIT_PROMPT_DIRTY=" %F{001}✗"
 ZSH_THEME_GIT_PROMPT_CLEAN=" %F{002}✔"
