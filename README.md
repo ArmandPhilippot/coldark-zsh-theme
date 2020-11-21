@@ -23,7 +23,7 @@ Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 
 |  | Light Theme |  | Dark Theme |  |
 | :-: | --- | :-: | --- | :-: |
 | Denomination | Hex Code | Preview | Hex Code | Preview |
-| `coldark02` | `#8da1b9` | ![#8da1b9][#8da1b9] | `#3c526d` | ![#3c526d][#3c526d] |
+| `coldark00` | `#111b27` | ![#111b27][#111b27] | `#e3eaf2` | ![#e3eaf2][#e3eaf2] |
 | `coldark07` | `#f0f4f8` | ![#f0f4f8][#f0f4f8] | `#0b121b` | ![#0b121b][#0b121b] |
 | `coldark08` | `#006d6d` | ![#006d6d][#006d6d] | `#66cccc` | ![#66cccc][#66cccc] |
 | `coldark09` | `#755f00` | ![#755f00][#755f00] | `#e6d37a` | ![#e6d37a][#e6d37a] |
@@ -32,8 +32,8 @@ Coldark uses 16 colors for each theme. However, the Coldark ZSH theme only uses 
 | `coldark12` | `#af00af` | ![#af00af][#af00af] | `#f4adf4` | ![#f4adf4][#f4adf4] |
 | `coldark15` | `#c70100` | ![#c70100][#c70100] | `#f57a73` | ![#f57a73][#f57a73] |
 
-- **`coldark02`:** Dark gray. Used as foreground for Git status.
-- **`coldark07`:** Black. Used as foreground (_on_, _arrow_)
+- **`coldark02`:** Used as foreground for Git status.
+- **`coldark07`:** Used as foreground for indications (_on_, _arrow_).
 - **`coldark08`:** Cyan. Used for unmerged.
 - **`coldark09`:** Yellow. Used for prompt user (root, user) and modified elements.
 - **`coldark10`:** Blue. Used for username, time and renamed elements.
